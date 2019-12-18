@@ -1,0 +1,17 @@
+{
+  "name": "@samelogic/react-feedback",
+  "version": "0.0.1",
+  "description": "React component for small feedback forms.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samelogic/react-samelogic-feedback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samelogic/react-samelogic-feedback/issues"
+  },
+  "homepage": "https://github.com/Samelogic/react-samelogic-feedback#readme"
+}
