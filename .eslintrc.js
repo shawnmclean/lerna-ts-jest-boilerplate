@@ -4,6 +4,7 @@ module.exports = {
   plugins: ["@typescript-eslint", "no-only-tests", "security", "prettier"],
   extends: [
     "eslint:recommended",
+    "plugin:react/recommended",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:@typescript-eslint/recommended",
     "plugin:security/recommended",
@@ -11,6 +12,7 @@ module.exports = {
   ],
   rules: {
     "prettier/prettier": "error",
-    "no-only-tests/no-only-tests": "error"
+    "no-only-tests/no-only-tests": "error",
+    "react/prop-types": "off"
   }
 };
