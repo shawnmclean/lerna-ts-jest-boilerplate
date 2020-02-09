@@ -15,7 +15,6 @@
     "suppressImplicitAnyIndexErrors": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "extendedDiagnostics": true,
     "baseUrl": ".",
     "paths": {
       "@samelogic/*": ["packages/*/src"]
