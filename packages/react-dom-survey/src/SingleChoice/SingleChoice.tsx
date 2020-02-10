@@ -4,7 +4,7 @@ import styles from "./styles.css";
 export type Props = { text: string };
 
 const SingleChoice: React.FC<Props> = ({ text }) => {
-  return <div className={styles.test}>Example Component: {text}</div>;
+  return <div className={styles.test}>SingleChoice Component: {text}</div>;
 };
 
 export default SingleChoice;
