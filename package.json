@@ -10,7 +10,7 @@
     "build": "lerna run build",
     "test": "jest",
     "lint": "lerna run lint",
-    "publish": "lerna publish"
+    "ci-publish": "lerna publish --no-git-reset"
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
