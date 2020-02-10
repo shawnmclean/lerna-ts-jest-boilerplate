@@ -1,1 +1,2 @@
-export * from "./Questions";
+export { default as SingleChoice } from "./SingleChoice";
+export * from "./SingleChoice";
