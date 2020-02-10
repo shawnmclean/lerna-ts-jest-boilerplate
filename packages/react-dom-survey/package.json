@@ -1,6 +1,6 @@
 {
   "name": "@samelogic/react-dom-survey",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "",
   "author": "shawnmclean",
   "license": "MIT",
@@ -23,7 +23,6 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "dependencies": {},
   "peerDependencies": {
     "@material-ui/core": "^4.8.1",
     "@material-ui/icons": "^4.5.1",
