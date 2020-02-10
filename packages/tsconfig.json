@@ -1,7 +1,7 @@
 {
   "references": [
     {
-      "path": "react-feedback"
+      "path": "react-dom-survey"
     }
   ]
 }

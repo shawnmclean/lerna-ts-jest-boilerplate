@@ -3,8 +3,8 @@ import styles from "./styles.css";
 
 export type Props = { text: string };
 
-const ExampleComponent: React.FC<Props> = ({ text }) => {
+const SingleChoice: React.FC<Props> = ({ text }) => {
   return <div className={styles.test}>Example Component: {text}</div>;
 };
 
-export default ExampleComponent;
+export default SingleChoice;

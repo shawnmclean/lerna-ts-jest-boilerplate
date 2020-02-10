@@ -1,10 +1,10 @@
 {
-  "name": "@samelogic/react-feedback",
+  "name": "@samelogic/react-dom-survey",
   "version": "0.0.2",
   "description": "",
   "author": "shawnmclean",
   "license": "MIT",
-  "repository": "samelogic/react-samelogic-feedback",
+  "repository": "samelogic/react-dom-survey",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
