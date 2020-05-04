@@ -1,11 +1,8 @@
 module.exports = {
-  preset: "ts-jest",
   clearMocks: true,
   testRegex: "(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$",
   testPathIgnorePatterns: ["<rootDir>/packages/(?:.+?)/lib/"],
-  globals: {
-    "ts-jest": {}
-  },
+  testEnvironment: "jsdom",
   moduleFileExtensions: ["ts", "tsx", "js", "json"],
-  verbose: true
+  verbose: true,
 };

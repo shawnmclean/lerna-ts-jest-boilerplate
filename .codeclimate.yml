@@ -1,7 +1,6 @@
 plugins:
   eslint:
-    enabled: true
-    channel: "eslint-6"
+    enabled: false # Disable due to code climate not supporting our eslint plugins.
     config:
       extensions:
         - .ts
