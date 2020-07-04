@@ -1,7 +1,7 @@
 {
   "references": [
     {
-      "path": "react-dom-survey"
+      "path": "package-1"
     }
   ]
 }

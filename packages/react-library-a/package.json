@@ -1,10 +1,10 @@
 {
-  "name": "@samelogic/react-dom-survey",
+  "name": "@lerna-ts-jest-boilerplate/react-library-a",
   "version": "0.0.9",
   "description": "",
   "author": "shawnmclean",
   "license": "MIT",
-  "repository": "samelogic/react-dom-survey",
+  "repository": "shawnmclean/lerna-ts-jest-boilerplate",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
