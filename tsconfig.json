@@ -17,7 +17,7 @@
     "noUnusedParameters": true,
     "baseUrl": ".",
     "paths": {
-      "@samelogic/*": ["packages/*/src"]
+      "@lerna-ts-jest-boilerplate/*": ["packages/*/src"]
     }
   }
 }
