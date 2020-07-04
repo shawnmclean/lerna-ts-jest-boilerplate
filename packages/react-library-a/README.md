@@ -1,4 +1,4 @@
-# @samelogic/react-feedback
+# @@lerna-ts-jest-boilerplate/react-library-a
 
 > 
 
@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save @samelogic/react-feedback
+npm install --save @lerna-ts-jest-boilerplate/react-library-a
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save @samelogic/react-feedback
 ```tsx
 import * as React from 'react'
 
-import MyComponent from '@samelogic/react-feedback'
+import MyComponent from '@lerna-ts-jest-boilerplate/react-library-a'
 
 class Example extends React.Component {
   render () {
