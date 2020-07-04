@@ -1,6 +1,8 @@
-[![Test Coverage](https://api.codeclimate.com/v1/badges/b0cfd2282eb5b8dbc6df/test_coverage)](https://codeclimate.com/github/Samelogic/dom-survey/test_coverage)
-[![Maintainability](https://api.codeclimate.com/v1/badges/b0cfd2282eb5b8dbc6df/maintainability)](https://codeclimate.com/github/Samelogic/dom-survey/maintainability)
+# lerna-ts-jest-boilerplate
 
-**DOM Surveys** makes you run agile feedback based experiments on DOM elements using mini-surveys. 
+Template with the following tech:
 
-We're doing this to provide a developer friendly way to make people collect actionable feedback, quickly, within their websites 🙌
+1. Lerna
+1. Typescript
+1. Jest
+1. Storybook
