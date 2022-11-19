@@ -30,7 +30,7 @@
     "gh-pages": "^2.1.1",
     "mini-css-extract-plugin": "^0.9.0",
     "postcss-loader": "^3.0.0",
-    "react-scripts-ts": "^3.1.0",
+    "react-scripts-ts": "^4.0.8",
     "rollup": "^1.27.14",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.1.0",
